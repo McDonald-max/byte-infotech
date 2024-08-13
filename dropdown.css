@@ -1,0 +1,25 @@
+*{
+    padding: o;
+    margin: 0;
+}
+ul li{
+    list-style-type: none;
+    width: 50px;
+}
+nav ul ul{
+    display: none;
+}
+nav ul li:hover ul{
+    display: block;
+}
+nav ul li ul li:hover
+{
+    background-color: rgba(92, 88, 88, 0.644);
+    
+} 
+li{
+    padding: 5px;
+}
+ul li a{
+text-decoration: none;
+}
